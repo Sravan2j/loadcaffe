@@ -1,5 +1,6 @@
 loadcaffe
 =========
+##### This branch supports old version of Caffe that uses V1LayerParameter like the models in Caffe [Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo).
 
 Load Caffe networks in Torch7
 
